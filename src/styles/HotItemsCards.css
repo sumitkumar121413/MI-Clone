@@ -1,0 +1,23 @@
+.HotItemsCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    width: 31%;
+}
+
+.HotItemsCard > img{
+    width: 70%;
+}
+
+.HotItemsCard > p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(83,83,83);
+    
+}
+.HotItemsCard > span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orangered;
+    margin: -1vmax 0  1vmax 0;
+}
+
